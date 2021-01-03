@@ -1,4 +1,4 @@
-### Hi there 👋
+What would I even put here.
 
 <!--
 **w-thomas-20/w-thomas-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
