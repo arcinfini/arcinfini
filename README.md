@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## Current active-ish projects:
-- clash.py
-- source-discordbot
+- [clash.py](https://github.com/arcinfini/clash.py)
+- [.commands](https://github.com/arcinfini/.commands)
+
+## I also have repositories for:
+- [Linux dotfiles](https://github.com/arcinfini/dotfiles)
+
+My dotfiles is currently private as I am still in the process of configuring.
