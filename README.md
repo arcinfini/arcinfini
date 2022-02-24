@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 -->
 
 arcinfini is a profile mainly with the purpose of storing code and helping me develop with a migrating work environment.
+
+I deal primarily with these programming languages written in the order of my learning:
+
+- Lua
+- Java
+- Python
