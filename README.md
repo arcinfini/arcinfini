@@ -15,11 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Current active-ish projects:
-- [clash.py](https://github.com/arcinfini/clash.py)
-- [.commands](https://github.com/arcinfini/.commands)
-
-## I also have repositories for:
-- [Linux dotfiles](https://github.com/arcinfini/dotfiles)
-
-My dotfiles is currently private as I am still in the process of configuring.
+arcinfini is a profile mainly with the purpose of storing code and helping me develop with a migrating work environment.
