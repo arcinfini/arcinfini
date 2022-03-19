@@ -1,4 +1,3 @@
-What would I even put here.
 
 <!--
 **w-thomas-20/w-thomas-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,11 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-arcinfini is a profile mainly with the purpose of storing code and helping me develop with a migrating work environment.
-
-I deal primarily with these programming languages written in the order of my learning:
-
-- Lua
-- Java
-- Python
-- C#
+arcinfini is an account for hosting my larger hobby projects
