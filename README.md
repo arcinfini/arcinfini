@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-arcinfini is an account for hosting my larger hobby projects
+hi im arcinfini. 
