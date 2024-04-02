@@ -1,6 +1,6 @@
 
 <!--
-**w-thomas-20/w-thomas-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hi im arcinfini. 
+hi im arcinfini. i often work on discord bots for fun. 
+
+my favorite languages: python, lua, rust... and some other languages i can work with: java, javascript.
