@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 hi im arcinfini. i often work on discord bots for fun. 
 
-my favorite languages: python, lua, rust... and some other languages i can work with: java, javascript.
+my favorite languages: python, lua, rust... and some other languages i can work with: java, javascript. i also have my fair experience with SQL; mostly with postgres.
